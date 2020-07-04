@@ -1,7 +1,3 @@
-# Xmark-Python
-Python implementation of Xmark
-
-
 
                           Steps for running Xmark
 -------------------------------------------------------------------------------
